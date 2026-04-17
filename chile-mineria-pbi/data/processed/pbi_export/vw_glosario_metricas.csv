@@ -1,0 +1,5 @@
+﻿codigo,nombre,unidad,definicion,categoria
+cu_production_kt,Producción cobre fino,kt,Miles de toneladas métricas de cobre fino (ajustar definición a la fuente).,produccion
+c1_cost_usd_lb,Costo C1 (referencial),USD/lb,Costo neto de efectivo antes de by-product credits; definición depende del emisor.,costo
+ebitda_usd_m,EBITDA,USD millones,Resultado operacional aproximado; ver notas del reporte.,finanzas
+net_income_usd_m,Utilidad neta atribuible,USD millones,Utilidad neta según reporte (puede ser segmento o grupo).,finanzas

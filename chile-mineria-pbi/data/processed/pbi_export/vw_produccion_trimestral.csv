@@ -1,0 +1,5 @@
+﻿anio,trimestre,periodo_inicio,periodo_fin,entidad_codigo,entidad,holding,metrica_codigo,metrica_nombre,metrica_unidad,valor,granularidad,source_file,extracted_at
+2024,1,2024-01-01,2024-03-31,CODELCO,Codelco,Estado de Chile,cu_production_kt,Producción cobre fino,kt,395.0,quarter,SEED_DEMO,2026-04-15 01:24:28
+2024,2,2024-04-01,2024-06-30,CODELCO,Codelco,Estado de Chile,cu_production_kt,Producción cobre fino,kt,402.0,quarter,SEED_DEMO,2026-04-15 01:24:28
+2024,1,2024-01-01,2024-03-31,ESCONDIDA_BHP,Minera Escondida (consolidado BHP),BHP Group,cu_production_kt,Producción cobre fino,kt,280.0,quarter,SEED_DEMO,2026-04-15 01:24:28
+2024,2,2024-04-01,2024-06-30,ESCONDIDA_BHP,Minera Escondida (consolidado BHP),BHP Group,cu_production_kt,Producción cobre fino,kt,275.0,quarter,SEED_DEMO,2026-04-15 01:24:28

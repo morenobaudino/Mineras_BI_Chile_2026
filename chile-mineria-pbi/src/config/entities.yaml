@@ -1,0 +1,24 @@
+﻿entidades:
+  - codigo: CODELCO
+    nombre_mostrar: Codelco
+    holding: Estado de Chile
+    tipo: corporativo
+    pais: CL
+    es_jv: false
+    pct_participacion: null
+    notas: Datos desde memorias / balances / informes de gestión públicos.
+    fuentes_sugeridas:
+      - "https://www.codelco.com/"
+
+  - codigo: ESCONDIDA_BHP
+    nombre_mostrar: Minera Escondida (consolidado BHP)
+    holding: BHP Group
+    tipo: operacion
+    pais: CL
+    es_jv: true
+    pct_participacion: 57.5
+    notas: >-
+      KPIs atribuibles a Escondida/Chile suelen aparecer en reportes trimestrales
+      y presentaciones de BHP; validar % y definiciones en cada reporte.
+    fuentes_sugeridas:
+      - "https://www.bhp.com/investors/"

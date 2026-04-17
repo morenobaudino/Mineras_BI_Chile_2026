@@ -1,0 +1,6 @@
+﻿anio,trimestre,periodo_inicio,periodo_fin,entidad_codigo,entidad,metrica_codigo,metrica_nombre,metrica_unidad,valor,moneda,fx_a_usd,granularidad,source_file,extracted_at
+2024,1,2024-01-01,2024-03-31,CODELCO,Codelco,ebitda_usd_m,EBITDA,USD millones,2100.0,USD,,quarter,SEED_DEMO,2026-04-15 01:24:28
+2024,2,2024-04-01,2024-06-30,CODELCO,Codelco,ebitda_usd_m,EBITDA,USD millones,2250.0,USD,,quarter,SEED_DEMO,2026-04-15 01:24:28
+2024,1,2024-01-01,2024-03-31,CODELCO,Codelco,net_income_usd_m,Utilidad neta atribuible,USD millones,450.0,USD,,quarter,SEED_DEMO,2026-04-15 01:24:28
+2024,1,2024-01-01,2024-03-31,ESCONDIDA_BHP,Minera Escondida (consolidado BHP),ebitda_usd_m,EBITDA,USD millones,3200.0,USD,,quarter,SEED_DEMO,2026-04-15 01:24:28
+2024,2,2024-04-01,2024-06-30,ESCONDIDA_BHP,Minera Escondida (consolidado BHP),ebitda_usd_m,EBITDA,USD millones,3050.0,USD,,quarter,SEED_DEMO,2026-04-15 01:24:28
