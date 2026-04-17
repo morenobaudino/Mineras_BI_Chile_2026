@@ -2,7 +2,7 @@
 Proyecto integral de Business Intelligence para el análisis de producción y eficiencia financiera en la minería chilena.
 
 ## 📊 Vista Previa del Dashboard
-![Dashboard de Minería](NOMBRE_DE_TU_IMAGEN.png) 
+![Dashboard de Minería](CAP_MINERA.png)
 *(Cambia NOMBRE_DE_TU_IMAGEN.png por el nombre exacto del archivo de imagen que subiste)*
 
 ## 🛠️ Tecnologías Utilizadas
